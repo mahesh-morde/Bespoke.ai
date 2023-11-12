@@ -9,12 +9,12 @@ kindly use locally by pulling the code in local machine, use postman for testing
 
 
 # Pros :
-Modular structure
-error handling
-use of django views
-used debugging and comments to understand code
+1. Modular structure.
+2. error handling.
+3. use of django views.
+4. used debugging and comments to understand code.
 
 # cons:
-lack of security
-lack of user auth
+1. lack of security.
+2. lack of user auth.
 

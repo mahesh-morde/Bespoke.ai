@@ -10,12 +10,12 @@
 
 
 # Pros :
-1. Modular structure.
-2. error handling.
-3. use of django views.
-4. used debugging and comments to understand code.
+Modular structure.<br />
+error handling.<br />
+use of django views.<br />
+used debugging and comments to understand code.<br />
 
 # cons:
-1. lack of security.
-2. lack of user auth.
+lack of security.<br />
+lack of user auth.<br />
 

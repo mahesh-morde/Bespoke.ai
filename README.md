@@ -1,7 +1,7 @@
 # Bespoke.ai
 
 # Below are the endpoints given.
-* kindly use locally by pulling the code in local machine, use postman for testing.
+* kindly use locally by pulling the code in local machine, use postman for testing. <br />
 * Please find screen recording here - https://youtu.be/aSQfHUi-FHA
 
 1. User profile logging API : endpoint - http://127.0.0.1:8000/create_user/
